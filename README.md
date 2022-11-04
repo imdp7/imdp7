@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imdp7
+- 👋 Hi, I’m Darshan Patel @imdp7
 - 👀 I’m interested in building cool projects from scratch.
 - 🌱 I’m currently learning front end frameworks and integrating with servers 
 - 💞️ I’m looking to collaborate on any of the designs and ideas.
